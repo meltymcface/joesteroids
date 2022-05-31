@@ -7,7 +7,7 @@ All images are not mine.
 All code is mine, but I'll let you have it.
 All image files must be in the same directory as Joesteroids.py
 
-CONTROLS:
+## CONTROLS
 
 Forward Thrust: W
 
